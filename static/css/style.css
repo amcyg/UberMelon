@@ -1,4 +1,7 @@
-
+.welcome {
+    color: #999;
+    padding: 15px 0;
+}
 div.melon-summary img {
     width: 200px;
 }
@@ -71,5 +74,6 @@ div.cart {
   border-top-left-radius: 0;
   border-top-right-radius: 0;
 }
-img.melon-cart {
+.melon-cart {
+  height: 15px;
 }
